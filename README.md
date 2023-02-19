@@ -1,2 +1,2 @@
 # Climate-study
-To study the climate change using machine learning models.
+To study the climate change and predict temperature changes using machine learning models.
